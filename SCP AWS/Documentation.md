@@ -71,7 +71,7 @@ This guide provides a step-by-step explanation of launching an EC2 instance, con
 
 For a complete visual demonstration, watch the video below:
 
-![EC2 Setup Walkthrough](../Videos/AWS%20SCP.mp4)
+![EC2 Setup Walkthrough](/Videos/AWS%20SCP.mp4)
 
 ## ✅ Conclusion
 
