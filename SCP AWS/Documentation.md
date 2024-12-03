@@ -71,7 +71,7 @@ This guide provides a step-by-step explanation of launching an EC2 instance, con
 
 For a complete visual demonstration, watch the video below:
 
-![EC2 Setup Walkthrough](https://youtu.be/si12uVHvtyg)
+[![EC2 Setup Walkthrough](https://img.youtube.com/vi/si12uVHvtyg/0.jpg)](https://youtu.be/si12uVHvtyg)
 
 ## ✅ Conclusion
 
