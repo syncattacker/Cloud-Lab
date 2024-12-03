@@ -4,7 +4,8 @@ This guide demonstrates how to launch a website on an EC2 instance using Apache.
 
 ## 🎥 Video Walkthrough
 
-For a detailed visual explanation, watch the video:
+For a complete visual demonstration, watch the video below:
+
 [Watch on YouTube](https://youtu.be/LiJm4AkPlWc)
 
 ## Commands for Launching a Website
