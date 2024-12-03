@@ -4,7 +4,8 @@ This guide demonstrates the use of commands to connect an S3 bucket with an EC2 
 
 ## 🎥 Video Walkthrough
 
-For a detailed visual explanation, watch the video:
+For a complete visual demonstration, watch the video below:
+
 [Watch on YouTube](https://youtu.be/HFRZCyCFVkw)
 
 ## Commands for AWS S3 and EC2 Integration
